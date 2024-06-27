@@ -47,10 +47,10 @@ export default function Hero() {
             videoHeight={1080} /> */}
 
            {/* Video section */}
-          <div className="relative flex justify-center items-center mb-[-250px]" data-aos="fade-up" data-aos-delay="200" >
-            <div className="relative w-full max-w-screen-md h-64 overflow-hidden rounded-lg shadow-lg">
+          {/* <div className="relative flex justify-center items-center mb-[-250px] md:mb-[-100px]" data-aos="fade-up" data-aos-delay="200">
+            <div className="relative w-full max-w-screen-md h-64 md:h-48 sm:h-32 overflow-hidden rounded-lg shadow-lg">
               <video
-                className="absolute top-0 left-1/2 w-auto h-[21%] min-w-full transform -translate-x-1/2 object-cover"
+                className="absolute top-0 left-1/2 w-auto h-[21%] min-w-full transform -translate-x-1/2 object-cover pointer-events-none"
                 autoPlay
                 muted
                 loop
@@ -61,10 +61,8 @@ export default function Hero() {
                 Your browser does not support the video tag.
               </video>
             </div>
-          </div>
-
+          </div> */}
         </div>
-
       </div>
     </section>
   )
