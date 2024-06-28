@@ -2,7 +2,6 @@ import Image from 'next/image'
 
 import AIProcessingWorkflow from '@/public/images/AI Workflow.jpg'
 import ChatBot from '@/public/images/ChatBot.svg'
-import FeatImage03 from '@/public/images/features-03-image-03.png'
 import DataIntegration from '@/public/images/DataIntegration.png'
 
 export default function Zigzag() {
