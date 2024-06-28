@@ -136,7 +136,7 @@ export default function Footer() {
             </ul> */}
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; RealtyRoom.co All rights reserved 2024.</div>
+            <div className="text-gray-400 text-sm mr-4">Copyright © 2024 Realty Room.</div>
 
           </div>
 
