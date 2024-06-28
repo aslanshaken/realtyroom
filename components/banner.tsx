@@ -17,7 +17,7 @@ export default function Banner() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Join the<span className="hidden sm:inline"> Waitlist now</span>
+                Join the Waitlist now
               </a>{' '}
               {/* <span className="italic px-1.5">or</span>{' '} */}
               {/* <a className="font-medium hover:underline text-emerald-400" href="https://cruip.com/open-pro/" target="_blank" rel="noreferrer">

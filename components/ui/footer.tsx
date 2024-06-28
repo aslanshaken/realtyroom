@@ -21,7 +21,7 @@ export default function Footer() {
                 </Link> */}
                 <h1 className="h4" >Realty Room</h1>
               </div>
-              {/* <div className="text-gray-400">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div> */}
+              <div className="text-gray-400">realtyroomai@gmail.com</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
