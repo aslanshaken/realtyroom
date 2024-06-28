@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Realy Room',
-  description: 'Page description',
+  description: 'AI Tools for Commercial Real Estate Brokers',
 }
 
 import Hero from '@/components/hero'

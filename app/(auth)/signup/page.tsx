@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Realty Room',
-  description: 'Page description',
+  description: 'AI Tools for Commercial Real Estate Brokers',
 }
 
 import Link from 'next/link'
